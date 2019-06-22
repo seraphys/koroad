@@ -10,5 +10,7 @@
 	<div id="intro"></div>
 	<img src="img/icon.png">
 	<select>
+		<option></option>
+		</select>
 </body>
 </html>
